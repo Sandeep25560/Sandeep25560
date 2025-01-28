@@ -5,5 +5,4 @@
 - 📫 Let’s connect and create:  
   ✉️ [sandeep.enamandala@gmail.com](mailto:sandeep.enamandala@gmail.com)  
   🌐 [LinkedIn](https://www.linkedin.com/in/enamandala/)  
-- 😄 Pronouns: He/Him  
-- ⚡ **Fun fact:** I’ve been recognized as **Employee of the Month** for driving a 25% improvement in feature delivery, yet my greatest joy lies in mentoring teams, simplifying the complex, and turning ambitious visions into reality. 🌟
+- 😄 Pronouns: He/Him
