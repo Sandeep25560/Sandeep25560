@@ -48,12 +48,16 @@ I specialize in building secure APIs, responsive frontend systems, cloud-native 
 ### Software Engineer — AT&T
 **Jun 2020 – Dec 2021**
 
-- Developed web applications using ASP.NET and C#, improving performance by **25%** for high-volume telecom workflows.
-- Engineered RESTful APIs using ASP.NET Web API and integrated third-party telecom services for reliable data exchange.
-- Designed database schemas and optimized complex SQL queries for scalable processing of large telecom datasets.
-- Built Angular frontend components integrated with .NET services, improving UI responsiveness by **21%**.
-- Automated build and deployment processes through CI/CD pipelines across development, testing, and production environments.
-- Applied in-memory caching, NUnit testing, structured logging, reusable .NET components, and performance profiling to improve reliability and code quality.
+- Developed enterprise web applications using ASP.NET and C#, improving application performance by **25%** while supporting high-volume telecom transactions and scalable business workflows.
+- Engineered RESTful APIs using ASP.NET Web API to enable reliable communication between telecom services and distributed backend systems.
+- Integrated third-party telecom APIs using secure protocols, improving interoperability and reliable data exchange across service platforms.
+- Designed relational database schemas and optimized complex SQL queries to improve data retrieval performance across large production telecom datasets.
+- Built reusable Angular frontend components integrated with .NET services, improving UI responsiveness by **21%** and delivering smoother user workflows.
+- Automated build and deployment processes through CI/CD pipelines, improving release consistency across development, testing, and production environments.
+- Applied in-memory caching strategies to reduce repeated backend processing and improve response performance for frequently accessed telecom data.
+- Implemented NUnit-based testing and reusable .NET components to strengthen application reliability, maintainability, and code quality.
+- Used structured logging and performance profiling tools to identify bottlenecks, troubleshoot production issues, and improve system diagnostics.
+- Collaborated with cross-functional Agile teams on feature delivery, integration, debugging, and performance improvements while adapting to evolving business requirements.
 
 ## Featured Projects
 
