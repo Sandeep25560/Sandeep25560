@@ -1,6 +1,6 @@
 # Hi, I'm Sandeep Enamandala 👋
 
-I'm a **Full Stack Software Engineer** with **4+ years of experience** building scalable, production-grade applications using **ASP.NET Core, React, TypeScript, SQL Server, Docker, Kubernetes, AWS, and Azure**.
+I'm a **Full Stack Software Engineer** with **6+ years of experience** building scalable, production-grade applications using **ASP.NET Core, React, TypeScript, SQL Server, Docker, Kubernetes, AWS, and Azure**.
 
 I specialize in building secure APIs, responsive frontend systems, cloud-native services, and performance-focused enterprise applications. My background includes healthcare, insurance, workflow automation, financial intelligence, and data-heavy business systems.
 
