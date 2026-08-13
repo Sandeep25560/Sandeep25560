@@ -23,23 +23,37 @@ I specialize in building secure APIs, responsive frontend systems, cloud-native 
 
 ## Professional Experience
 
-### Senior Software Engineer — Cognizant
-**June 2025 – Present**
+### .NET Developer — UnitedHealth Group
+**Oct 2024 – Present**
 
-- Designed and implemented high-performance REST APIs and microservices for scalable enterprise systems.
-- Built secure applications using JWT authentication, role-based access control, and API security best practices.
-- Developed reusable React components using Tailwind CSS and Material UI to improve user experience.
-- Containerized applications using Docker and deployed services on Kubernetes with AWS/Azure infrastructure.
-- Implemented caching and asynchronous processing to improve throughput and reduce server load.
+- Designed microservices using ASP.NET Core and AWS ECS, improving application scalability by **28%** while supporting secure healthcare data processing across distributed systems.
+- Developed REST APIs using .NET Core with AWS Lambda for event-driven healthcare workflows and reliable system interoperability.
+- Optimized SQL Server queries using Entity Framework Core to improve data retrieval performance and support high-availability healthcare transaction systems.
+- Implemented secure authentication using JWT and OAuth, strengthening protection of healthcare information and enterprise security compliance.
+- Automated CI/CD pipelines using AWS CodePipeline and Git to improve deployment consistency and reduce manual release errors.
+- Built asynchronous messaging workflows using AWS SQS and .NET background services to improve throughput and reliable data delivery.
+- Enhanced monitoring with AWS CloudWatch, structured logging, reusable ASP.NET Core middleware, Redis caching, and performance profiling.
 
-### Software Engineer — ValueLabs
-**Sept 2021 – Jul 2024**
+### Senior Software Engineer — ValueLabs
+**Jan 2022 – Jul 2024**
 
-- Built and maintained full-stack healthcare and insurance applications using ASP.NET Core and React.
-- Improved API performance by **35%** through SQL tuning, indexing, and backend optimization.
-- Strengthened CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment failures by **40%**.
-- Improved development quality and helped reduce production defects by **15%**.
-- Collaborated with QA, DevOps, and product teams to deliver reliable enterprise software.
+- Developed enterprise banking applications using ASP.NET MVC and .NET Core, improving transaction processing efficiency by **26%** while supporting secure financial workflows.
+- Built RESTful APIs using ASP.NET Web API and Entity Framework for reliable communication and integration between banking services.
+- Implemented Azure App Services and Azure Functions to support scalable cloud and serverless banking workloads.
+- Optimized SQL Server queries and stored procedures to reduce latency and improve performance for high-volume financial transactions.
+- Designed secure authentication using Azure Active Directory and automated CI/CD pipelines with Azure DevOps.
+- Developed responsive Angular and Bootstrap interfaces integrated with .NET backend services.
+- Implemented Azure Redis Cache and .NET Core microservices to improve response efficiency, modularity, scalability, and independent deployment.
+
+### Software Engineer — AT&T
+**Jun 2020 – Dec 2021**
+
+- Developed web applications using ASP.NET and C#, improving performance by **25%** for high-volume telecom workflows.
+- Engineered RESTful APIs using ASP.NET Web API and integrated third-party telecom services for reliable data exchange.
+- Designed database schemas and optimized complex SQL queries for scalable processing of large telecom datasets.
+- Built Angular frontend components integrated with .NET services, improving UI responsiveness by **21%**.
+- Automated build and deployment processes through CI/CD pipelines across development, testing, and production environments.
+- Applied in-memory caching, NUnit testing, structured logging, reusable .NET components, and performance profiling to improve reliability and code quality.
 
 ## Featured Projects
 
