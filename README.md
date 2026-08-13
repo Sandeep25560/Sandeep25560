@@ -107,4 +107,4 @@ A full-stack employee portal with secure authentication, role-based access contr
 - Portfolio: https://portfolio-sandeeps-projects-1fc0f8c5.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/enamandala/
 - GitHub: https://github.com/Sandeep25560
-- Email: sandeepenamandala125@gmail.com
+- Email: sandeep.enamandala@gmail.com
